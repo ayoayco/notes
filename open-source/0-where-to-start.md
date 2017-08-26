@@ -14,3 +14,5 @@ Here is a list of communities/places I have found over the web where I get my in
 1. [Reddit's r/opensource](https://www.reddit.com/r/opensource/) - To see what's the latest in the community.
 2. [Github Trending](https://play.google.com/store/apps/details?id=com.rubik.github) - To browse through interesting repositories in Github.
 3. [Stackoverflow](https://stackoverflow.com) - To see what other developers are confused about... and sometimes to answer questions.
+
+-- to be continued --
