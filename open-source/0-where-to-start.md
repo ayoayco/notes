@@ -4,7 +4,6 @@ I have been using open source since college, studying Computer Science, and I ha
 
 In this note I will document my journey into contributing to the open source community.
 
-This note (as well as all other notes in this repository) is a personal note. This is by no means a definitive authority on the topic. If you do not like what you read, you can always write your own or, better yet, contribute to this note. I welcome all contributors. :)
 
 ## Wet your apetite
 
