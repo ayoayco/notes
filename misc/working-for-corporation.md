@@ -4,4 +4,4 @@ It's not uncommon to hear among my circle of friends something like this: "worki
 
 ## Baseless
 
-
+How can you judge something you have not experienced being in for a long enough period of time?
