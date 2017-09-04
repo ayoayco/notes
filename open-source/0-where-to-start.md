@@ -15,6 +15,7 @@ Here is a list of communities/places I have found over the web where I get my in
 4. Open an account at [Github](https://github.com).
 5. Read the [The Conscience of a Hacker](http://www.phrack.org/issues/7/3.html)
 6. Read on [How To Become A Hacker](http://catb.org/%7Eesr/faqs/hacker-howto.html)
+7. Install and play with a linux distribution (Ubuntu is a good starting point for me) [Ubuntu Homepage](https://ubuntu.com)
 
 -- To be Continued --
 
