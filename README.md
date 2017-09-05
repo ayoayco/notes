@@ -1,6 +1,6 @@
 # Notes
 
-Here I keep technical notes and knowledge base which I think contributes to my growth professionally. I also do maintain a [blog](https://blog.ayoayco.com) where I publish stuff that are leaning more toward my opinion and other personal things.
+Here I keep technical notes and knowledge base which I think contribute to my growth professionally. I also do maintain a [blog](https://blog.ayoayco.com) where I publish stuff that are leaning more toward my opinion and other personal things.
 
 Contents:
 1. [angular](https://github.com/ayoayco/notes/tree/master/angular)
