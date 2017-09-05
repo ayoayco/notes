@@ -19,13 +19,13 @@ This is why HTML Email designers hate Lotus Notes the most--pretty much like Int
 ## Findings on Lotus Notes HTML email rendering
 
 Lotus Notes has several issues with widely accepted HTML standards because of its own proprietary rich-text formatting. Here are some of these issues that can be found if you search the web:
-- COLSPANS. These are attributes of table cells to tell the email client or the browser how many columns they span over. Lotus Notes can’t seem to understand this and we might need to just use multiple tables as a workaround.
-- CENTER ALIGNMENT. Using &lt;TABLE ALIGN="CENTER"&gt; worked great in Lotus Notes 6.5.3. But not at all in Lotus Notes 6.5.4. Also, &lt;CENTER&gt; tags around the tables didn’t work in 6.5.4 either. We can make things simpler as a workaround so they’d look okay as left-aligned in 6.5.4.
+- COLSPANS. These are attributes of table cells to tell the email client or the browser how many columns they span over. Lotus Notes cannot seem to understand this and we might need to just use multiple tables as a workaround.
+- CENTER ALIGNMENT. Using `<TABLE ALIGN="CENTER">` worked great in Lotus Notes 6.5.3. But not at all in Lotus Notes 6.5.4. Also, `<CENTER>` tags around the tables didn’t work in 6.5.4 either. We can make things simpler as a workaround so they'd look okay as left-aligned in 6.5.4.
 
 
 ## Other Possible Workarounds and Good Practice
 Here are some helpful tips in designing HTML emails for Lotus Notes:
-- Use Mail Chimp’s *|ARCHIVE|* merge tag to automatically generate a link to the online version of your MailChimp campaign. Subscribers can click this link to view your campaign directly in their web browsers.
+- Use Mail Chimp's `*|ARCHIVE|*` merge tag to automatically generate a link to the online version of your MailChimp campaign. Subscribers can click this link to view your campaign directly in their web browsers.
 - Allow your subscribers to choose which version of your campaign they want to receive when they sign up to your list: HTML, Text, or Mobile. If they have difficulty viewing HTML email, they can select the Text option instead.
 - Keep your designs simple so that if they fail, your email is still readable.
 
@@ -41,12 +41,12 @@ Follow these steps to clean up the HTML email design:
 - Export Template to HTML. Once the Campaign is saved as a Template you can now export it into HTML code that we can clean up. Go to Templates page, click the dropdown button beside the Edit button on the Template, then select “Export as HTML”
 - Clean Up the HTML Code. Once you select the “Export as HTML” option, a file will be downloaded to your computer. Open this file in a Text Editor then do the following:
 - Add Lotus Notes specific elements.
-- In the HTML code you downloaded, you will most probably find a line this code: &lt;!--[if gte mso 9]&gt; … replace all occurrence with &lt;!--[if (gte mso 9)|(IE)]&gt;
+- In the HTML code you downloaded, you will most probably find a line with this code: `<!--[if gte mso 9]>` … replace all occurrence with `<!--[if (gte mso 9)|(IE)]>`
 - Lotus notes Microsoft’s Internet Explorer (IE) to render HTML emails.
 - Remove style rules intended for smartphones.
-- In the HTML code, if you find @media{ … } rules inside the &lt;style&gt;...&lt;/style&gt; tags, you may remove it.
+- In the HTML code, if you find @media{ … } rules inside the `<style> ... </style>` tags, you may remove it.
 - These @media{ ... } rules are intended for smartphones and may not play well with Lotus Notes.
-- Make CSS style rules inline. As much as possible, apply style rules found inside the &lt;style&gt;...&lt;/style&gt; tags as inline styles to the elements. As of writing this blog, Mailchimp has an automatic inline feature to do this. Just check the checkbox in the design settings and Mailchimp will automatically do this for you.
+- Make CSS style rules inline. As much as possible, apply style rules found inside the `<style> ... </style>` tags as inline styles to the elements. As of writing this blog, Mailchimp has an automatic inline feature to do this. Just check the checkbox in the design settings and Mailchimp will automatically do this for you.
 - Upload the Clean HTML Code into Mailchimp. Once you have done the cleaning up steps, you can go back to Mailchimp then create a Campaign using the new HTML Email. Create a Campain then choose HTML Email, then paste the code from the Text Editor you used.
 - Test the how the HTML Email looks. Mailchimp provides a paid feature called Inbox Preview to see how the HTML Email renders in several popular Email programs. If you are on a free account, you can use Preview Mode instead. Another option is opening an account in Litmus (http://litmus.com) which gives you screenshots of the HTML Email rendered in various Email Programs (including versions of Lotus Notes).
 
