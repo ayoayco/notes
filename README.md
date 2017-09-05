@@ -4,7 +4,3 @@ This repository contains my notes which are organized into their own directories
 
 Here I keep technical notes and knowledge base which I think contributes to my growth professionally. I also do maintain a [blog](https://blog.ayoayco.com) where I publish stuff that are leaning more toward my opinion and other personal things.
 
-Contents:
-1. [Open Source](https://github.com/ayoayco/notes/tree/master/open-source)
-
--- To be continued --
