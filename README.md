@@ -6,6 +6,7 @@ Contents:
 1. [angular](https://github.com/ayoayco/notes/tree/master/angular)
 2. [miscellaneous](https://github.com/ayoayco/notes/tree/master/miscellaneous)
 3. [open-source](https://github.com/ayoayco/notes/tree/master/open-source)
+4. [coding](https://github.com/ayoayco/notes/tree/master/coding)
 
 This repository contains my notes which are organized into different topics with their own directories. The notes in this repository are personal. These are by no means definitive authority on the topics. If you do not like what you read here, you can always write your own or, better yet, contribute here by creating a [Pull Request](https://github.com/ayoayco/notes/pulls). I welcome all contributors. :)
 
