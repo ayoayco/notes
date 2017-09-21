@@ -1,10 +1,10 @@
 # Web Services
 
-Web services make the front-end / back-end architecture possible, where most (if not all) business logic are separated from rendering the view. Here comes two popular types of Web APIs: REST and SOAP. REST, if I understand it correctly, serves JSON; while SOAP serves XML.
+Web services make the front-end / back-end architecture possible, where most (if not all) business logic are separated from rendering the view. Here comes two popular types of Web APIs: REST and SOAP. REST, if I understand it correctly, can serve with any prototype such as HTTP or SMTP; while SOAP *is* a prototype particularly for XML-based exchange.
 
 ## REST APIs
 
-REST APIs have become popular with the rise of JavaScript because it serves data in JSON format, which is built in / native in JS. Many of today's most popular web applications provide Back-end API endpoints to provide integration capabilities for programmers.
+REST APIs have become popular with the rise of JavaScript because it can data in JSON format, which is built in / native in JS, among other reasons. Many of today's most popular web applications provide Back-end API endpoints to provide integration capabilities for programmers.
 
 ## Micro-Services
 
