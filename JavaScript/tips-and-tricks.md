@@ -2,16 +2,16 @@
 
 Here's a list of some JavaScript techniques I've learned so far.
 
-# Contents
+## Contents
 1. [Motivation](#motivation)
 2. [Notation](#notation)
 3. [Tips and Tricks](#tips-and-tricks)
   - [Use an Exclamation to convert anything to boolean](#use-exclamation)
 
-# Motivation
+## Motivation
 
 
-# Notation
+## Notation
 
 **`// ->`** is used to show the result of an expression. For example:
 
@@ -32,8 +32,8 @@ console.log('hello, world!') // > hello, world!
 const foo = function () {}
 ```
 
-# Tips and Tricks
-## Use Exclamation 
+## Tips and Tricks
+### Use Exclamation 
 
 ```js
 'random string' // -> 'random string'
