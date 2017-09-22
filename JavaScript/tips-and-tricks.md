@@ -2,7 +2,7 @@
 
 Here's a list of some JavaScript techniques I've learned so far.
 
-## Contents
+## Table of Contents
 1. [Motivation](#motivation)
 2. [Notation](#notation)
 3. [Tips and Tricks](#tips-and-tricks)
