@@ -1,7 +1,7 @@
 # JavaScript Random Tips and Tricks
 
 Here's a list of some JavaScript techniques I've learned so far:
-- [Use an Exclamation to convert anything to boolean](#-use-exclamation)
+- [Use an Exclamation to convert anything to boolean](#use-exclamation)
 
 
 
