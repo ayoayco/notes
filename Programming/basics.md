@@ -1,10 +1,11 @@
 # Programming Basics
 
 ## Table of Contents
-1. [Choosing a Programming Language](#choosing-a-programming-language)
-2. Hello World
-3. Inputs, Outputs
-4. Loops
+1. [Choosing a Programming Language](#1-choosing-a-programming-language)
+2. [Hello World](#2-hello-world)
+3. [Inputs, Outputs](#3-inputs-outputs)
+4. [Loops](#4-loops)
+5. *...to be continued*
 
 
 ## 1. Choosing a Programming Language
