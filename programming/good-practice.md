@@ -18,6 +18,6 @@ Here are some points I try to observe while programming:
 6. Make it easier for others to debug / check your code. Make it as human readable as possible, without sacrificing code efficiency and simplicity.
 7. Code [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). Meaning, Don't Repeat Yourself. Make new methods / functions for lines of code you frequently repeat, make your code design moduler for reusability. DRY coding is the opposite of WET conding which means "Write Everything Twice" or "We Enjoy Typing" or "Waste Everyone's Time" ... you get the idea.
 
-## List of References for Good Programming Practices
+## Further Readings for Good Programming Practices
 
 1. [A Pragmatic Quick Reference](https://blog.programminghorror.com/a-pragmatic-quick-reference/) - a good summary of the book [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/exec/obidos/ASIN/020161622X/codihorr-20)
