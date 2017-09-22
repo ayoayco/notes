@@ -3,8 +3,8 @@
 Here's a list of some JavaScript techniques I've learned so far.
 
 ## Table of Contents
-2. [Notation](#notation)
-3. [Tips and Tricks](#tips-and-tricks)
+1. [Notation](#notation)
+1. [Tips and Tricks](#tips-and-tricks)
     1. [Use an Exclamation to convert anything to boolean](#use-exclamation)
 
 
