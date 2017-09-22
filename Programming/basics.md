@@ -13,7 +13,7 @@ When trying to learn programming for the fist time, I believe it is important to
 
 The main difference between the two as options for learning programming could be likened to your options when learning to drive cars--would you like to try out an automatic or a manual?
 
-Learning in Python is much like learning how to a drive with an automatic transmission. You don't have to mind much of the what's happening under the hood, and what's happening is often abstracted to you. For an example, you don't have to worry about memory allocation. Whereas in C, you have more control: you're driving a manual.
+Learning in Python is much like learning how to drive a car with an automatic transmission. You don't have to mind much of the what's happening under the hood, and what's happening is often abstracted to you. For an example, you don't have to worry about memory allocation. Whereas in C, you have more control: you're driving a manual.
 
 I learned programming for the first time in C. This, I believe, made it easier for me to learn other languages and understand how the computer works. For this reason, I find Python a little lacking when it comes to control. But I also understand Python is easier to learn and use for beginners who just wants to start coding and doesn't really plan to dive deep into computers. This is why, I think, many tutorials and classes for beginners use and recommend Python.
 
