@@ -10,6 +10,6 @@ Here I keep technical notes and knowledge base which I think contribute to my gr
 4. [JavaScript](https://github.com/ayoayco/notes/tree/master/JavaScript)
 
 ## Disclaimer
-This repository contains my notes which are organized into different topics with their own directories. The notes in this repository are personal. These are by no means definitive authority on the topics. If you do not like what you read here, you can always write your own or, better yet, contribute here by creating a [Pull Request](https://github.com/ayoayco/notes/pulls). I welcome all contributors. :)
+This repository contains my notes which are organized into different topics with their own directories. The notes in this repository are personal. These are by no means definitive authority on the topics. If you do not like what you read here, you can always write your own or, better yet, contribute here by letting me know about your [Issues](https://github.com/ayoayco/notes/issues) or creating a [Pull Request](https://github.com/ayoayco/notes/pulls). I welcome all contributors. :)
 
 I also maintain a [blog](https://blog.ayoayco.com) where I publish stuff that are leaning more toward my opinions and other personal things.
