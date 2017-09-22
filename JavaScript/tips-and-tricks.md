@@ -13,19 +13,19 @@ Here's a list of some JavaScript techniques I've learned so far.
 
 ## Notation
 
-**`// ->`** is used to show the result of an expression. For example:
+`// ->` is used to show the result of an expression. For example:
 
 ```js
 1 + 1 // -> 2
 ```
 
-**`// >`** means the result of `console.log` or another output. For example:
+`// >` means the result of `console.log` or another output. For example:
 
 ```js
 console.log('hello, world!') // > hello, world!
 ```
 
-**`//`** is just a comment used for explanations. Example:
+`//` is just a comment used for explanations. Example:
 
 ```js
 // Assigning a function to foo constant
