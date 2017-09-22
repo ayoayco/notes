@@ -3,10 +3,10 @@
 Here's a list of some JavaScript techniques I've learned so far.
 
 # Contents
-- [Motivation](#motivation)
-- [Notation](#notation)
-- [Tips and Tricks](#tips-and-tricks)
-  - [Use an Exclamation to convert anything to boolean](#use-exclamation)
+1. [Motivation](#motivation)
+2. [Notation](#notation)
+3. [Tips and Tricks](#tips-and-tricks)
+  1. [Use an Exclamation to convert anything to boolean](#use-exclamation)
 
 # Motivation
 
