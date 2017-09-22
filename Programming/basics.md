@@ -9,7 +9,7 @@
 
 
 ## 1. Choosing a Programming Language
-When studying programming for the fist time, I believe it is important to decide what programming language you will study first. There is quite a lot of programming languages out there, but not all are friendly for beginners. So far, there are two programming languages that rise above the rest when it comes to friendliness to first-time programmers: C and Python.
+When learning programming for the fist time, I believe it is important to decide what programming language you will study first. There is quite a lot of programming languages out there, but not all are friendly for beginners. So far, there are two programming languages that rise above the rest when it comes to friendliness to first-time programmers: C and Python.
 
 The main difference between the two as options for learning programming could be likened to your options when learning to drive cars--would you like to try out an automatic or a manual?
 
