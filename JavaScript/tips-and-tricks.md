@@ -30,7 +30,8 @@ const foo = function () {}
 ```
 
 ## Tips and Tricks
-### Use Exclamation 
+### Use Exclamation
+Exclamation points can be used to convert any data type into boolean.
 
 ```js
 'random string' // -> 'random string'
