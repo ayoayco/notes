@@ -18,6 +18,14 @@ export class AppSidebarComponent {
     constructor(){}
 
 }
-
-
 ```
+
+Let's break this code down and discuss it line-by-line.
+
+```typescript
+import { Component } from '@angular/core';
+```
+The first line imports other "parts" from other libraries/module. This "part" is technically a JavaScript class which could be component, service, or pipe, or maybe another JavaScript module from an external Node app. This makes it easy to reuse code by other developers or something you did for a previous project.
+
+*to be continued* 
+
