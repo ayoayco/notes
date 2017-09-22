@@ -3,9 +3,9 @@
 Here's a list of some JavaScript techniques I've learned so far.
 
 ## Table of Contents
-1. [Notation](#notation)
-1. [Tips and Tricks](#tips-and-tricks)
-    1. [Use an Exclamation to convert anything to boolean](#use-exclamation)
+- [Notation](#notation)
+- [Tips and Tricks](#tips-and-tricks)
+    1. [Exclamation Conversion to Boolean](#exclamation-conversion-to-boolean)
 
 
 ## Notation
@@ -30,7 +30,7 @@ const foo = function () {}
 ```
 
 ## Tips and Tricks
-### Use Exclamation
+### 1. Exclammation Conversion to Boolean
 Exclamation points can be used to convert any data type into boolean.
 
 ```js
