@@ -6,7 +6,7 @@ Here's a list of some JavaScript techniques I've learned so far.
 - [Motivation](#motivation)
 - [Notation](#notation)
 - [Tips and Tricks](#tips-and-tricks)
-- [Use an Exclamation to convert anything to boolean](#use-exclamation)
+ - [Use an Exclamation to convert anything to boolean](#use-exclamation)
 
 # Motivation
 
