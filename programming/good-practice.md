@@ -15,7 +15,8 @@ Here are some points I try to observe while programming:
 3. It does not hurt to lint your code. Code linting is arguably the easiest and fastest thing you can do to make sure your code is clean. Learn how to configure code linting so that it becomes natural to your programming practice. Linting detects problematic patterns in your code that might result into bugs or even some lines that are not following a certain style guide.
 4. Follow a style guide.
 5. Writing code is very much like writing literature in the sense that you get better at it as you read and read and read good code from experienced programmers. Read code by experienced programmers. If you don't have access to these experienced programmers in your immediate circle, you can always go to [Github](https://github.com).
-6. *to be continued...*
+6. Peer Programming or just having your code reviewed by other programmers is also a good practice.
+*to be continued...*
 
 ## List of References for Good Programming Practices
 
