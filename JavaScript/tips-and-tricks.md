@@ -43,13 +43,13 @@ Exclamation points can be used to convert any data type into boolean.
 Widths can be a pain when you don't know what you're doing. Fortunately, jQuery offers methods we can use for this. The following computes for the border, padding, and margin of an image element:
 
 ```js
-var bordT = $('img').outerWidth() - $('img').innerWidth();
-var paddT = $('img').innerWidth() - $('img').width();
-var margT = $('img').outerWidth(true) - $('img').outerWidth();
+var borderWidth = $('img').outerWidth() - $('img').innerWidth();
+var paddingWidth = $('img').innerWidth() - $('img').width();
+var marginWidth = $('img').outerWidth(true) - $('img').outerWidth();
 
-var formattedBord = bordT + 'px';
-var formattedPadd = paddT + 'px';
-var formattedMarg = margT + 'px';
+var formattedBord = borderWidth + 'px';
+var formattedPadd = paddingWidth + 'px';
+var formattedMarg = marginWidth + 'px';
 ```
 
 
