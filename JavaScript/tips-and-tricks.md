@@ -7,6 +7,7 @@ Here's a list of some JavaScript techniques I've learned so far.
 - [Tips and Tricks](#tips-and-tricks)
     1. [Exclamation Conversion to Boolean](#exclamation-conversion-to-boolean)
     2. [Computing for Various Widths](#computing-for-various-widths)
+    3. [Quotes Conversion to String](#quotes-conversion-to-string)
 
 ## Notation
 
@@ -52,4 +53,16 @@ var formattedPadd = paddingWidth + 'px';
 var formattedMarg = marginWidth + 'px';
 ```
 
+### Quotes Conversion to String
+A pair of single quotes (`''`) and double quotes (`""`) can be used to convert any data type into string by adding them:
+
+```js
+var integer = 123;
+var bool = true;
+var und = undefined;
+
+'' + integer // -> '123'
+"" + bool // -> 'true'
+"" + und // -> 'undefined'
+```
 
