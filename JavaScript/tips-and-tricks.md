@@ -6,7 +6,7 @@ Here's a list of some JavaScript techniques I've learned so far.
 - [Notation](#notation)
 - [Tips and Tricks](#tips-and-tricks)
     1. [Exclamation Conversion to Boolean](#exclamation-conversion-to-boolean)
-
+    2. [Computing for Various Widths](#computing-for-various-widths)
 
 ## Notation
 
@@ -30,7 +30,7 @@ const foo = function () {}
 ```
 
 ## Tips and Tricks
-### 1. Exclammation Conversion to Boolean
+### Exclammation Conversion to Boolean
 Exclamation points can be used to convert any data type into boolean.
 
 ```js
@@ -38,4 +38,18 @@ Exclamation points can be used to convert any data type into boolean.
 !'random string' // -> false
 !!'random strign' // -> true
 ```
+
+### Computing for Various Widths
+Widths can be a pain when you don't know what you're doing. Fortunately, jQuery offers methods we can use for this. The following computes for the border, padding, and margin of an image element:
+
+```js
+var bordT = $('img').outerWidth() - $('img').innerWidth();
+var paddT = $('img').innerWidth() - $('img').width();
+var margT = $('img').outerWidth(true) - $('img').outerWidth();
+
+var formattedBord = bordT + 'px';
+var formattedPadd = paddT + 'px';
+var formattedMarg = margT + 'px';
+```
+
 
