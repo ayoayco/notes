@@ -22,6 +22,14 @@ If you have a particular problem you want to solve, you will have to consider ot
 In this note, I will be using C for my examples for the basic programming concepts I will discuss.
 
 ## 2. Hello World
+```c
+#include <stdio.h>
+
+int main(void){
+    pritf("Hello world!");
+}
+```
+
 ## 3. Inputs, Outputs
 ## 4. Loops
 
