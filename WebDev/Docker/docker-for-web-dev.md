@@ -1,4 +1,5 @@
-# Notes on Using Docker for Web Development
+# Docker for Web Dev Notes Part 1
+
 These are my notes while going through Pluralsight course: "Docker for Web Developers"
 
 ## Why use docker as a developer?
