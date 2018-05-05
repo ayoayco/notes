@@ -21,3 +21,12 @@ set prefix C-a
 unbind-key C-b
 bind-key C-a send-prefix
 ```
+Once saved, it will be recognized by tmux the next time you run it.
+
+If you are already inside tmux and you want it to be loaded without restarting, summon the prompt by doing ``<prefix> :`` then the following command:
+
+```
+source-file ~/.tmux.conf
+```
+
+
