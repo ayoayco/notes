@@ -29,4 +29,4 @@ anonfunc = function(str){
 
 
 ## Conclusion
-For global functions, we can't use arrow functions or anonymous functions.
+For global functions, we cannot use arrow functions or anonymous functions.
