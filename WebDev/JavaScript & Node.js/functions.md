@@ -1,7 +1,6 @@
 # Analysis of function declarations in JS
 
-This will work.
-You can access a 'function' before it is declared.
+You can access a 'function' before it is declared. This will work.
 ```js
 normalfunc('hello');
 
@@ -10,8 +9,7 @@ function normalfunc(str){
 }
 ```
 
-This will not work.
-Arrow functions does not work like that. The strength of arrow functions are when you have to use the 'this' object of the caller. ???verify this
+Arrow functions does not work like that. The strength of arrow functions are when you have to use the 'this' object of the caller. ???verify this. This will not work.
 ```js
 arrfunc('nope');
 
@@ -20,8 +18,7 @@ arrfunc = (str) => {
 }
 ```
 
-This will also not work
-This is just an anonymous function set to a variable.
+This is just an anonymous function set to a variable. This will also not work
 ```js
 anonfunc('nope');
 
