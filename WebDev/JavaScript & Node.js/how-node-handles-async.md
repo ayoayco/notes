@@ -1,4 +1,4 @@
-#Some notes on how Node.js handles async
+# Some notes on how Node.js handles async
 
 JS is a single-threaded, event-based language. It means it runs on a single thread and waits for events to happen before firing up callback functions we provide.
 
