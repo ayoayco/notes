@@ -1,7 +1,9 @@
 # Node Development, the Docker Way
 Original gist [**here**](https://gist.github.com/ayoayco/e1817aa6180f7325b52f17a132f9a388).
 
-In this gist (This started out as a gist but evovled into a longer note... I'll convert this into a blog/note later)... I will go through the process of starting a node.js app, the docker way.
+This started out as a gist but evovled into a longer note...
+
+Let's go through the process of starting a node.js app, the docker way.
 
 ## Requirements / Steps:
 1. Docker - installation process [here](https://docs.docker.com)
