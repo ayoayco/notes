@@ -5,7 +5,7 @@ Here I keep technical notes and knowledge base which I think contribute to my gr
 ## Table of Contents
 1. [Miscellaneous](https://github.com/ayoayco/notes/tree/master/Miscellaneous)
 1. [Opensource](https://github.com/ayoayco/notes/tree/master/Opensource)
-1. [Programming](https://github.com/ayoayco/notes/tree/master/Programming)
+1. [Programming](https://github.com/ayoayco/Notes/tree/master/Programming%20Basics)
 1. [WebDev](https://github.com/ayoayco/notes/tree/master/WebDev)
 
 ## Disclaimer
