@@ -7,15 +7,11 @@ Let's go through the process of starting a node.js app, the docker way.
 
 ## Requirements / Steps:
 1. Docker - installation process [here](https://docs.docker.com)
-1. node.js & npm
+2. node.js & npm
 5. setup node app
     1. For an express app run:
         1. `npm i -g express express-generator`
         2. `express MyExpressApp`
-    2. For an Angular app, run:
-        1. `npm i -g @angular/cli`
-        2. `ng new MyAngularApp`
-        3. In the gist, change the port setup from `3000` to `4200`, because this is the default port that angular-cli runs on.
 6. Go to the created directory (i.e., `cd MyExpressApp` or `cd MyAngularApp`)
 7. Finally, run the Docker command in this gist: `docker run -p 8080:3000 -v %cd%:/var/www -w "/var/www" node npm start`
 8. Check if working: browse the running Docker: http://localhost:8080 
